@@ -1,8 +1,8 @@
-## Image Processor
+## Blurry Image Processor
 
 ### Описание
 
-Image Processor — это простое приложение, написанное на Python с использованием библиотеки Tkinter для графического интерфейса и стандартной библиотеки os для работы с файловой системой. Приложение позволяет обрабатывать изображения в указанной директории, определяя их резкость и перемещая размытые изображения в отдельную папку.
+Blurry Image Processor — это простое приложение, написанное на Python с использованием библиотеки Tkinter для графического интерфейса и стандартной библиотеки os для работы с файловой системой. Приложение позволяет обрабатывать изображения в указанной директории, определяя их резкость и перемещая размытые изображения в отдельную папку.
 
 Установка
 Для запуска приложения убедитесь, что у вас установлен Python версии 3.x. Приложение не требует дополнительных библиотек помимо стандартной библиотеки Python и Tkinter, которые обычно доступны в стандартном дистрибутиве.
@@ -20,10 +20,10 @@ Image Processor — это простое приложение, написанн
 ### Пример
 python isp.py
 
-### Image Processor
+### Blurry Image Processor
 
 ### Description
-Image Processor is a simple application written in Python using the Tkinter library for the graphical interface and standard os library for file system operations. The application allows processing images in a specified directory, determining their sharpness and moving blurry images to a separate folder.
+Blurry Image Processor is a simple application written in Python using the Tkinter library for the graphical interface and standard os library for file system operations. The application allows processing images in a specified directory, determining their sharpness and moving blurry images to a separate folder.
 
 ### Installation
 To run the application, ensure you have Python version 3.x installed. The application does not require additional libraries beyond the standard Python library and Tkinter, which is usually available in the standard distribution.
