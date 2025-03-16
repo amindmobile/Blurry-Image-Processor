@@ -39,4 +39,4 @@ Set the sharpness threshold (default is 100).
 Select the recursive search option if necessary.
 Click the "Start Processing" button to begin processing images.
 ### Example
-python script.py
+python isp.py
