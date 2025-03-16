@@ -33,7 +33,7 @@ Directory selection: Users can select an image directory through the graphical i
 Sharpness threshold: You can set a threshold value to determine blurry images. Images that do not meet this criterion are moved to the blurred_images folder inside the selected directory.
 Recursive search: The application can perform recursive searches in all subdirectories to process all images.
 ### Usage
-Start the application by double-clicking on the script.py file.
+Start the application by double-clicking on the isp.py file.
 Select an image directory through the graphical interface.
 Set the sharpness threshold (default is 100).
 Select the recursive search option if necessary.
